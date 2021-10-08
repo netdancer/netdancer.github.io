@@ -1,6 +1,6 @@
 ## Welcome to netdancer's Page
 
-This is a **tiny* page to just get things started here on _GitHub_.
+This is a **tiny** page to just get things started here on _GitHub_.
 
 ### Projects
 
